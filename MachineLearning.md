@@ -40,7 +40,7 @@
 
 在线性回归中，我们假设自变量 和因变量 之间存在线性关系，可以用以下模型表示：$y=\beta_0 + \beta_1 \cdot x+\varepsilon$
 
-目标是使残差平方和最小化：$\min _{\beta_0, \beta_1} \sum_{i=1}^n\left(y_i-\hat{y}_i\right)^2$
+目标是使残差平方和最小化：$\min_{\beta_0, \beta_1} \sum_{i=1}^n\left(y_i-\hat{y}_i\right)^2$
 
 #### 3. 残差以及残差最小化
 
